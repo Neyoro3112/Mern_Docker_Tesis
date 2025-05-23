@@ -1,0 +1,19 @@
+{
+  "name": "mern_docker_tesis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neyoro3112/Mern_Docker_Tesis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neyoro3112/Mern_Docker_Tesis/issues"
+  },
+  "homepage": "https://github.com/Neyoro3112/Mern_Docker_Tesis#readme",
+  "description": ""
+}
